@@ -1,0 +1,132 @@
+#twee {
+    
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: 420px;
+}  
+header {
+    display: flex;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.bovenste-balk a {
+    color: white;
+    text-align: center;
+    padding: 13px;
+    float: left;
+    text-decoration: none;
+    font-size: 17px;
+    padding-top: 16px;
+    padding-left: 10px;
+  }
+.bovenste-balk a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.balk-rechts a {
+    color: white;
+    text-align: center;
+    padding: 13px;
+    text-decoration: none;
+    font-size: 17px;
+    padding-top: 16px;
+    float: right;
+    margin-left: 50px;
+
+
+}
+.balk-rechts a:hover {
+    background-color:#ddd;
+    color: black;
+}
+body {
+    background-color: black;
+}
+
+
+.foto {
+    margin-top: -40px;
+    display: flex;
+    float: left;
+    margin-left: 1px;
+    position: absolute;
+    z-index: -100;
+}
+h2 {
+    margin-top: 500px;
+    color: white;
+    padding-left: 15px;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+}
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 540px;
+    color: white;
+    font-size: 15px;
+    padding-left: 12px;
+    display: flex;
+    position: absolute;
+    margin-left: 10px;
+}
+.foto2 {
+    margin-top: -40px;
+    display: flex;
+    margin-left: 410px;
+    position: absolute;
+    z-index: -99;
+    float: right;
+}
+h4 {
+    margin-left: 430px;
+    display: flex;
+    position: absolute;
+    color: white;
+    margin-top: 500px;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.foto3 {
+    margin-top: -40px;
+    display: flex;
+    margin-left: 819px;
+    position: absolute;
+    z-index: -99;
+    float: right;
+}
+h5 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 540px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    position: absolute;
+    margin-left: 430px;
+}
+h6 {
+    margin-left: 840px;
+    display: flex;
+    position: absolute;
+    color: white;
+    margin-top: 500px;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h7 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 540px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    position: absolute;
+    margin-left: 840px;
+    
+} 
